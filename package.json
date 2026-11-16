@@ -1,0 +1,10 @@
+{
+  "name": "security-scan-probe",
+  "version": "1.0.0",
+  "description": "Test fixture repo for proving the Cursor security Factory chain.",
+  "main": "src/exec.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
